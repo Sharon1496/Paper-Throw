@@ -1,1 +1,1 @@
-# Paper-Throw
+# CP-2
